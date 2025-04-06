@@ -5,7 +5,7 @@
     "lipophilicity": 2.1,
     "binding_affinity": 5.8,
     "bioavailability": 0.92,
-    "blood-brain_barrier_permeability ":"Yes"
+    "blood-brain_barrier_permeability": "Yes"
   },
   "O=C=O": {
     "esol": 0.23,
@@ -13,7 +13,7 @@
     "lipophilicity": -0.3,
     "binding_affinity": 4.1,
     "bioavailability": 0.78,
-    "blood-brain_barrier_permeability ":"No"
+    "blood-brain_barrier_permeability": "No"
   },
   "CCO": {
     "esol": -0.56,
@@ -21,7 +21,7 @@
     "lipophilicity": 1.7,
     "binding_affinity": 6.2,
     "bioavailability": 0.88,
-    "blood-brain_barrier_permeability":"No"
+    "blood-brain_barrier_permeability": "No"
   },
   "CN(C)C": {
     "esol": -1.1,
@@ -29,7 +29,7 @@
     "lipophilicity": 1.4,
     "binding_affinity": 4.9,
     "bioavailability": 0.81,
-    "blood-brain_barrier_permeability":"Yes"
+    "blood-brain_barrier_permeability": "Yes"
   },
   "C1=CC=CC=C1": {
     "esol": -0.9,
@@ -37,7 +37,7 @@
     "lipophilicity": 2.4,
     "binding_affinity": 5.5,
     "bioavailability": 0.93,
-    "blood-brain_barrier_permeability":"No"
+    "blood-brain_barrier_permeability": "No"
   },
   "CC(=O)Oc1ccccc1C(=O)O": {
     "esol": -0.9,
@@ -45,7 +45,6 @@
     "lipophilicity": 2.4,
     "binding_affinity": 5.5,
     "bioavailability": 0.93,
-    "blood-brain_barrier_permeability":"Yes"
+    "blood-brain_barrier_permeability": "Yes"
   }
-  
 }
